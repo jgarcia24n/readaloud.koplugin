@@ -1,4 +1,4 @@
-# readaloud.koplugin
+## readaloud
 A KOReader plugin that plays **EPUB3 Media Overlay** audio while highlighting the
 currently spoken text element in sync.  Targets books produced by the
 [Storyteller platform](https://gitlab.com/storyteller-platform/storyteller).
